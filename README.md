@@ -14,7 +14,7 @@ Upload index.html, license.txt, CSS and JS files to the deployed webserver.
 
 The deployed website linked was deployed using GitHub Pages. 
 
-[Link to the deployed website](https://john-991.github.io/password-generator/)
+[Link to the deployed website]([https://john-991.github.io/password-generator/](https://john-991.github.io/-JavaScript-Code-Quiz/))
 
 ## Credits
 
