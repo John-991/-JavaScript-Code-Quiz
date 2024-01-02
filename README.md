@@ -1,4 +1,4 @@
-# -JavaScript-Code-Quiz
+# JavaScript-Code-Quiz
 
 ### Welcome to the JavaScript Code Quiz! This challenge comprises 5 multiple-choice questions. 
 
