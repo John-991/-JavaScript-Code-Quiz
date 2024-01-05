@@ -2,7 +2,7 @@ body {
   font-family: Arial;
   font-size: 120%;
 }
-
+/* start button style */
 a {
   color: #563d7c;
   text-decoration: none;
@@ -33,7 +33,7 @@ button:hover {
 .choices button {
   display: block;
 }
-
+/* initial section */
 input[type="text"] {
   font-size: 100%;
 }
@@ -57,7 +57,7 @@ li:nth-child(odd) {
   margin: 100px auto 0 auto;
   max-width: 600px;
 }
-
+/* hide text that we show after with js  */
 .hide {
   display: none;
 }
@@ -65,7 +65,7 @@ li:nth-child(odd) {
 .start {
   text-align: center;
 }
-
+/* score section */
 .scores {
   position: absolute;
   top: 10px;
@@ -80,7 +80,7 @@ li:nth-child(odd) {
   color: gray;
   border-top: 2px solid #ccc;
 }
-
+/* timer section */
 .timer {
   position: absolute;
   top: 10px;
